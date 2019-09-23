@@ -1,3 +1,6 @@
+/*11) Define an array of 5 int variables. Ask user to enter 5 numbers.
+   Read five numbers into this array of five. Finally print these 5 numbers. */
+
 #include<stdio.h>
 int main() {
 	int i,a[5];
