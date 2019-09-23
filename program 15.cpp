@@ -1,3 +1,7 @@
+/*15)Define a string of size 80 chars. Also define 5 strings of size 20 chars
+    each. Ask the user to enter a line containg 5 words. Copy each word
+    into individual strings. Finally print all the inidividual string. */
+
 #include<stdio.h>
 #include <string.h>
 #include <stdlib.h>
