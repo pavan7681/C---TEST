@@ -1,3 +1,6 @@
+/*13)Read a line from the user and print the number of capital letters present
+   in the string. *>
+   
 #include<stdio.h>
 #include<string.h>
 
