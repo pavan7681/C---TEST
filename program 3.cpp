@@ -1,3 +1,9 @@
+/*3)Read two integers from the user. Perform all possible logical 
+   operations on these two integers. Print the results of all these 
+   logical  operations. Following are the possible logical operators:
+
+   AND(&&)   OR(||)    NOT(!) */
+
 #include<stdio.h>
 int main() {
 	int a,b,c;
