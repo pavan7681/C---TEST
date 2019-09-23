@@ -1,3 +1,7 @@
+/*12)Read five numbers from the user into an array of 5. Calculate the smallest
+   number, largest number, total and average. Finally print these calculated
+   values. *>
+   
 #include<stdio.h>
 int main() {
 	int i,a[5],large,small,sum;
