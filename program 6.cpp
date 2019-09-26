@@ -9,7 +9,7 @@ int main() {
 	else {
 		printf("odd");
 	}
-	b = b << 1;
+	b = n << 1;
 	if ( n & b == 1) {
 		printf("\neven");
 	}
