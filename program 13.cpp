@@ -9,7 +9,7 @@ int main() {
 	int count = 0,i;
 	gets(s);
 	for (i = 0;i < strlen(s);i++) {
-		 if (s[i] >= 65 && s[i] < 92 ) {
+		 if (s[i] >= 65 && s[i] < 91 ) {
 		 	    count++;
 		 }
 		 
